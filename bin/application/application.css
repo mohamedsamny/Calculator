@@ -1,0 +1,31 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+
+.button{
+	-fx-font: bold 28pt Arial;	/*change font for buttons and font type */
+	-fx-text-fill: white;	/*color of text buttons */
+	
+	}
+.button:hover{
+	-fx-text-fill: red;	/*on button hover change color				 */
+}
+	
+.button.st{
+	-fx-background-color :  #1C2A39; /*color of number background */
+	
+	
+} 
+.button.sy{
+	-fx-background-color :  #ed9300;	/*color of operations background */
+}
+.button.mod{
+	-fx-background-color :  #ed9300;	/*color of mod button */
+		-fx-font: bold 18pt Arial;	/*font of mod and font button */
+	
+	
+	
+}
+
+
+
