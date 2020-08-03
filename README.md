@@ -1,17 +1,5 @@
 # Calculator
 
-Calculator’s functions and abilities:
-
-Addition
-Subtraction
-Multiplication
-Division
-Module
-Add decimal
-Square root
-Square
-Numbers 0 – 9
-
 
 Build calculator application using scene builder and  Java FX:
 Create buttons for numbers 0 to 9 and buttons for add, subtract, divide, multiply, module, decimal, square, square root operations.
